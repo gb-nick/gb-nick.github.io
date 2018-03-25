@@ -1,13 +1,6 @@
 # Basic
 title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
-
-url: "http://vno.onevcat.com"
-
-permalink: /:year/:month/:title/
+subtitle: Welcome to my blog!
 
 # Format
 highlighter: rouge
@@ -16,15 +9,13 @@ highlighter: rouge
 cover_color: red
 
 # The blog button should not be removed.
-blog_button:
-    title: Blog
-    description: Visit blog
+
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Blogs, description: My Blogs, url: 'https://blog.buddy666.top/Blog'}
-    - {title: Projects, description: My Projects, url: 'https://blog.buddy666.top/Project'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: Blogs, description: Visit blog, url: 'https://blog.buddy666.top/Blog'}
+    - {title: Projects, description: Visit project, url: 'https://blog.buddy666.top/Project'}
+    
 
 # Pagination
 gems: [jekyll-paginate]
