@@ -1,6 +1,7 @@
 # Basic
 title: Severn
-subtitle: Welcome to my blog!
+# subtitle:
+description: Welcome to my blog!
 
 # Format
 highlighter: rouge
