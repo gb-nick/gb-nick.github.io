@@ -22,7 +22,8 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Blogs, description: My Blogs, url: 'https://blog.buddy666.top/Blog'}
+    - {title: Projects, description: My Projects, url: 'https://blog.buddy666.top/Project'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
